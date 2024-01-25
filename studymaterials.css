@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+.bt{
+    background-color: rgb(41, 255, 22);
+    color: rgb(21, 0, 255);
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    font-family: cursive;
+    border-style: double;
+    border-color: rgb(246, 9, 9);
+    
+}
+.h{
+    color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.p1{
+    color: white;
+    border-style: dotted;
+    border-color: chartreuse;
+    background-color: rgb(55, 5, 101);
+    font-family: cursive;
+    font-weight: 200;
+    text-align: center;
+    border-radius: 20px;
+    font-size: larger;
+}
+.thanks{
+    color: black;
+    border-color: rgb(246, 255, 0);
+    border-radius: 50px;
+    border-style: groove;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: dotted;
+    font-family: fantasy;
+    text-emphasis-color: blue;
+
+}
+
+
